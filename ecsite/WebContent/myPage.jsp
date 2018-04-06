@@ -63,7 +63,7 @@
       clear:both;
       }
 
-  #text-right{
+  #text-link{
       display: inline-block;
       text-align: right;
       }

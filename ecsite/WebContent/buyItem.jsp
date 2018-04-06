@@ -16,7 +16,7 @@
 <style type="text/css">
 /*========TAG LAYOUT========*/
 
-    
+
 body{
     margin:0;
     padding:0;
@@ -122,8 +122,8 @@ table{
                              <tr>
                                       <td>
                                                 <s:submit value="購入" />
-                                     </td>
-                            </tr>
+                                      </td>
+                             </tr>
 
 
 
@@ -135,7 +135,7 @@ table{
                                     <a href='<s:url action="HomeAction" />'>こちら</a></p>
 
                                     <p>マイぺージは<a href='<s:url action="MypageAction" />'>こちら</a></p>
-                                    </div>
+                           </div>
                               </div>
                         </div>
                         <div id="footer">
