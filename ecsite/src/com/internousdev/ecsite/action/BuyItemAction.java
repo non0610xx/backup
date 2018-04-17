@@ -13,7 +13,6 @@ public class BuyItemAction extends ActionSupport implements SessionAware{
      private String pay;
      public Map<String,Object> session;
 
-
      public String execute() {
     	   String result = SUCCESS;
 

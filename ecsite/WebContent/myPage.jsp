@@ -65,7 +65,8 @@
 
   #text-link{
       display: inline-block;
-      text-align: right;
+      text-align: center
+      ;
       }
 
 

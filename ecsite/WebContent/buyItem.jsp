@@ -134,7 +134,7 @@ table{
                                     <p>前画面に戻る場合には
                                     <a href='<s:url action="HomeAction" />'>こちら</a></p>
 
-                                    <p>マイぺージは<a href='<s:url action="MypageAction" />'>こちら</a></p>
+                                    <p>マイぺージは<a href='<s:url action="MyPageAction" />'>こちら</a></p>
                            </div>
                               </div>
                         </div>
