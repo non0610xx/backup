@@ -28,7 +28,7 @@ public class BuyItemDAO {
 			    }
 		}catch(Exception e) {
 			e.printStackTrace();
-		}
+		 }
 	return buyItemDTO;
 	}
 	public BuyItemDTO getBuyItemDTO() {

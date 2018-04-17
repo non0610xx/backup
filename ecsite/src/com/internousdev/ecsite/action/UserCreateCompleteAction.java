@@ -61,7 +61,7 @@ public class UserCreateCompleteAction extends ActionSupport implements SessionAw
 
 
 
-	}
+}
 
 
 

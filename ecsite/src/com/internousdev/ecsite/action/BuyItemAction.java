@@ -33,7 +33,7 @@ public class BuyItemAction extends ActionSupport implements SessionAware{
     		   payment = "クレジットカード";
     		   session.put("pay", payment);
 
-    	   }
+    	    }
     	   return result;
 
      }

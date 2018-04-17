@@ -34,8 +34,8 @@ public class BuyItemCompleteDAO {
 
 		}catch(Exception e) {
 			e.printStackTrace();
-		}finally {
+		 }finally {
 			connection.close();
-		}
-	}
+		 }
+	    }
 }
